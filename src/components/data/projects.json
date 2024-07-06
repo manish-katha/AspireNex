@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "CreateMyBill",
+    "imageSrc": "assets/project/bill.png",
+    "description": "A robust bill creation system Using React js and Firebase.Allows users to effortlessly create, view, and print bills.",
+    "demo": "https://bill-management-green.vercel.app/",
+    "source": "https://github.com/manish-katha/Bill-management"
+  },
+  {
+    "key": 2,
+    "title": "E-student Portal",
+    "imageSrc": "https://th.bing.com/th/id/OIP.ad7KntrN5Vn7m2IopNRxJAHaHa?w=198&h=198&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+    "description": "Developed a dynamic student management module using React.Js, emphasizing frontend design and JavaScript.",
+    "demo": "https://github.com/manish-katha/Student-portal",
+    "source": "https://github.com/manish-katha/Student-portal"
+  },
+  {
+    "key": 3,
+    "title": "To-do Backend",
+    "imageSrc": "https://th.bing.com/th/id/OIP.1_RkdvFJ5yDNIOTP2hod4gHaE8?w=232&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+    "description": "Developed Backend handling CRUD operations (Create, Read, Update, Delete) for seamless task management.",
+    "demo": "https://to-do-backend-1-frja.onrender.com/",
+    "source": "https://github.com/manish-katha/To-do-backend"
+  },
+  {
+    "key": 4,
+    "title": "Chess Game",
+    "imageSrc": "https://th.bing.com/th/id/OIP.uSUZsbISn_1S_d8ACc-olAHaFj?w=211&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+    "description": "Developed a fully functional chess game using HTML, CSS, and JavaScript, incorporating features such as piece movement,capturing, and checkmate detection.",
+    "demo": "https://manish-katha.github.io/Chess-game/",
+    "source": "https://github.com/manish-katha/Chess-game"
+  },
+  {
+    "key": 5,
+    "title": "Netflix Homepage",
+    "imageSrc": "https://th.bing.com/th/id/OIP.USRGLnk6iOi0Hakpo6VLMgAAAA?w=307&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+    "description": "Designed and developed a responsive Netflix homepage from scratch, focusing on optimizing user experience across various devices with the help of html and css. ",
+    "demo": "https://netflix-homepage-mu.vercel.app/",
+    "source": "https://github.com/manish-katha/netflix_homepage"
+  }
+]
